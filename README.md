@@ -6,6 +6,6 @@
   Currently working on: 
   
      - Quickest.lol | Frontend
-     - Quickest.lol | Backend
+    - Quickest.lol | Backend
 
 </div>
